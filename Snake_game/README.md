@@ -15,6 +15,8 @@ Snake is controlled by arrow keys
 
 Current score and high score is displayed on top
 
+I apologize for the lack of comments, this code is quite old
+
 Enjoy!
 
 ![Screenshot 2021-04-03 130000](https://user-images.githubusercontent.com/81878922/113490271-d9c01880-947d-11eb-9856-08c664a7d16a.png)
