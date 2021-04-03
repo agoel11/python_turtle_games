@@ -13,6 +13,8 @@ You can adjust colors and shapes however you want
 
 The code is intermediate level and is not machine specific (can be used on MAC, Linux, or Windows)
 
+I apologize for the lack of comments, this code is quite old
+
 Enjoy!
 
 ![Screenshot 2021-04-03 130000](https://user-images.githubusercontent.com/81878922/113490028-88fbf000-947c-11eb-9c42-1f9eb033227b.png)
