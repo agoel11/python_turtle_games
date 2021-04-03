@@ -18,6 +18,8 @@ Player on the right is controlled by arrow keys
 
 Player on the left is controlled by WASD keys
 
+I apologize for the lack of comments, this code is quite old
+
 Enjoy!
 
 ![Screenshot 2021-04-03 130221](https://user-images.githubusercontent.com/81878922/113490193-7930db80-947d-11eb-88ab-6d3494ce3b0e.png)
